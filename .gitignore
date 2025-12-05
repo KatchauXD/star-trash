@@ -1,0 +1,56 @@
+# --- Godot ---
+# Pasta de importação (gerada automaticamente pela Godot)
+.import/
+.godot/
+
+# Arquivos de cache e temporários
+.cache/
+*.tmp
+*.temp
+*.log
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Configurações locais do usuário (não devem ir para o repositório)
+*.cfg
+*.ini
+
+# --- Exportações ---
+# Builds exportadas para desktop
+*.exe
+*.dll
+*.pck
+
+# Builds exportadas para Linux/macOS
+*.x86_64
+*.app
+*.dylib
+
+# Builds exportadas para Android
+*.apk
+*.aab
+
+# Builds exportadas para iOS
+*.ipa
+
+# Builds exportadas para Web
+export/
+*.html
+*.js
+*.wasm
+
+# --- Sistema Operacional ---
+# Arquivos gerados pelo Windows
+Thumbs.db
+Desktop.ini
+
+# Arquivos gerados pelo macOS
+.DS_Store
+
+# --- Outros ---
+# Arquivos de editor ou IDE
+.vscode/
+.idea/
+*.swp
